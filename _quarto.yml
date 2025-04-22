@@ -5,4 +5,4 @@ website:
   title: "My Quarto Blog"
   site-url: "https://hw3446.github.io/PUC_Quarto/"
 
-output-dir: _site
+output-dir: docs
