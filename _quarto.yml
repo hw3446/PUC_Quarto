@@ -1,3 +1,5 @@
+output-dir: docs
+
 project:
   type: website
 
@@ -10,6 +12,7 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+  site-url: "https://hw3446.github.io/PUC_Quarto/"
 format:
   html:
     theme: cosmo
