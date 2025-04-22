@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hw3446.github.io/PUC_Quarto/PUC Analysis code_paper.html</loc>
-    <lastmod>2025-04-15T16:22:00.562Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hw3446.github.io/PUC_Quarto/posts/post-with-code/index.html</loc>
-    <lastmod>2025-04-22T15:43:15.780Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hw3446.github.io/PUC_Quarto/about.html</loc>
-    <lastmod>2025-04-22T15:43:15.790Z</lastmod>
+    <loc>https://hw3446.github.io/PUC_Quarto/posts/welcome/index.html</loc>
+    <lastmod>2025-04-22T15:43:15.776Z</lastmod>
   </url>
   <url>
     <loc>https://hw3446.github.io/PUC_Quarto/index.html</loc>
     <lastmod>2025-04-22T15:43:15.774Z</lastmod>
   </url>
   <url>
-    <loc>https://hw3446.github.io/PUC_Quarto/posts/welcome/index.html</loc>
-    <lastmod>2025-04-22T15:43:15.776Z</lastmod>
+    <loc>https://hw3446.github.io/PUC_Quarto/about.html</loc>
+    <lastmod>2025-04-22T15:43:15.790Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hw3446.github.io/PUC_Quarto/posts/post-with-code/index.html</loc>
+    <lastmod>2025-04-22T15:43:15.780Z</lastmod>
   </url>
 </urlset>
